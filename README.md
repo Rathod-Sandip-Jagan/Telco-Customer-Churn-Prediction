@@ -78,13 +78,13 @@ pip install -r requirements.txt
 1. **Run EDA:**
 
 ```bash
-jupyter notebook notebooks/01_eda.ipynb
+jupyter notebook notebooks/EDA.ipynb
 ```
 
 2. **Train Models:**
 
 ```bash
-jupyter notebook notebooks/03model_training.ipynb
+jupyter notebook notebooks/model_training.ipynb
 ```
 
 3. **Use Preprocessor (standalone):**
@@ -161,7 +161,7 @@ Selected **[Your best model]** based on highest ROC-AUC score, balancing precisi
 **Peeyush K Misra**
 
 - LinkedIn: [Sandip Rathod](https://www.linkedin.com/in/sandip-rathod-ba9a94229/)
-- GitHub: [@misrapk](https://github.com/Rathod-Sandip-Jagan)
+- GitHub: [@Sandip](https://github.com/Rathod-Sandip-Jagan)
 - Email: rsandip3046@gmail.com
 
 ## 📄 License
