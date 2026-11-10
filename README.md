@@ -158,7 +158,7 @@ Selected **[Your best model]** based on highest ROC-AUC score, balancing precisi
 
 ## 👤 Author
 
-**Peeyush K Misra**
+**Sandip J Rathod**
 
 - LinkedIn: [Sandip Rathod](https://www.linkedin.com/in/sandip-rathod-ba9a94229/)
 - GitHub: [@Sandip](https://github.com/Rathod-Sandip-Jagan)
